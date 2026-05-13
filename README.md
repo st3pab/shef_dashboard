@@ -1,4 +1,4 @@
-# Своё Шеф - Интеллектуальная платформа для рестораторов
+# Своё.Шеф - Интеллектуальная платформа для рестораторов
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://python.org)
 [![Dash](https://img.shields.io/badge/Dash-2.14+-green.svg)](https://plotly.com/dash/)
@@ -84,7 +84,7 @@
 
 ```bash
 git clone https://github.com/your-username/svoe-shef.git
-cd svoe-sheа
+cd svoe-shef
 ```
 ### 2. Запуск
 
