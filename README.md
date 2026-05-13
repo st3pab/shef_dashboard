@@ -83,7 +83,7 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/your-username/svoe-shef.git
+git clone https://github.com/st3pab/shef_dashboard.git
 cd svoe-shef
 ```
 ### 2. Запуск
